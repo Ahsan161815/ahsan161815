@@ -7,7 +7,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahsan161815" alt="ahsan161815" />
   </a>
-  <a href="https://fluttermobiledeveloper.com" target="blank">
+  <a href="https://fluttermobiledeveloper.com" target="blank" align="left">
     Website
   </a>
 
