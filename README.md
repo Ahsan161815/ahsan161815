@@ -8,7 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ahsan161815" alt="ahsan161815" />
   </a>
   
- 📝 I regularly write articles on [fluttermobiledeveloper.com](fluttermobiledeveloper.com)
+ Website:[fluttermobiledeveloper.com](fluttermobiledeveloper.com)
 
 </p> ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
