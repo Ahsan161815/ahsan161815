@@ -16,7 +16,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahsan.161815" height="30" width="40" />
   </a>
   <a href="https://medium.com/@ahsan.161815" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahsan.161815" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="@ahsan.161815" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
