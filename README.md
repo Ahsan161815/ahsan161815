@@ -7,8 +7,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahsan161815" alt="ahsan161815" />
   </a>
-  
- Website:[fluttermobiledeveloper.com](fluttermobiledeveloper.com)
+  <a href="https://fluttermobiledeveloper.com" target="blank">
+    Website
+  </a>
 
 </p> ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
